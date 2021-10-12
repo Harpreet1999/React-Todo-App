@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Harpreet1999/React-Todo-App.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/Harpreet1999/React-Todo-App.git/static/js/main.d9e891c8.chunk.js",
+    "main.js.map": "/Harpreet1999/React-Todo-App.git/static/js/main.d9e891c8.chunk.js.map",
+    "runtime-main.js": "/Harpreet1999/React-Todo-App.git/static/js/runtime-main.a653931a.js",
+    "runtime-main.js.map": "/Harpreet1999/React-Todo-App.git/static/js/runtime-main.a653931a.js.map",
+    "static/js/2.63f6bfa2.chunk.js": "/Harpreet1999/React-Todo-App.git/static/js/2.63f6bfa2.chunk.js",
+    "static/js/2.63f6bfa2.chunk.js.map": "/Harpreet1999/React-Todo-App.git/static/js/2.63f6bfa2.chunk.js.map",
+    "static/js/3.d9f6f7e9.chunk.js": "/Harpreet1999/React-Todo-App.git/static/js/3.d9f6f7e9.chunk.js",
+    "static/js/3.d9f6f7e9.chunk.js.map": "/Harpreet1999/React-Todo-App.git/static/js/3.d9f6f7e9.chunk.js.map",
+    "index.html": "/Harpreet1999/React-Todo-App.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Harpreet1999/React-Todo-App.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.63f6bfa2.chunk.js.LICENSE.txt": "/Harpreet1999/React-Todo-App.git/static/js/2.63f6bfa2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a653931a.js",
+    "static/js/2.63f6bfa2.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.d9e891c8.chunk.js"
+  ]
+}
